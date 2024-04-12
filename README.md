@@ -1,1 +1,0 @@
-# paduk-dev.github.io
