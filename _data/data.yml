@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Kim Ju Sung
-    tagline: Developer C#
+    name: 김 주 성
+    tagline: C# 개발자
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,32 +19,23 @@ sidebar:
     citizenship:
     github: paduk-dev
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: 스쿠버다이빙
+          link: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+        - item: 스노우 보드
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: 온라인 게임
           link:
 
 career-profile:
@@ -191,24 +182,10 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
+patents:
+    title: patents
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      Precast Concrete 공법의 건물 설계 도면 자동 생성 시스템 및 이의 실행 방법(KP232096, 2출원 진행중)
 
 publications:
     title: Publications
