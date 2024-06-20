@@ -15,25 +15,25 @@ email: paduk.dev@gamil.com
 darkmode: true
 
 # Social links
-github_username:  paduk-dev
-#twitter_username: jekyll
+instagram_username: paduk._.zzz
+github_username: paduk-dev
+# twitter_username: jekyll
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: paduk._.zzz
-#linkedin_username: jekyll
+# linkedin_username: jekyll
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: jekyll
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+ #  icon: fas fa-globe
+ #  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
