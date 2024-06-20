@@ -30,7 +30,7 @@ sidebar:
       title: Interests
       info:
         - item: 스쿠버다이빙
-          link: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+          link:
 
         - item: 스노우 보드
           link:
@@ -182,8 +182,8 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-patents:
-    title: patents
+oss:
+    title: OSS Contributions
     intro: >
       Precast Concrete 공법의 건물 설계 도면 자동 생성 시스템 및 이의 실행 방법(KP232096, 2출원 진행중)
 
