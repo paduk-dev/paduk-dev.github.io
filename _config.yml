@@ -7,24 +7,25 @@ version: 2
 
 # Personal info
 name: 김주성
-title: Programmer
-email: paduk.dev@gamil.com
+title: C# Programmer
 phone: 010 5555 4331
+email: paduk.dev@gamil.com
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 github_username:  paduk-dev
+#twitter_username: jekyll
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: paduk._.zzz
-linkedin_username: paduk.dev
+#linkedin_username: jekyll
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+#youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
