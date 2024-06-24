@@ -142,6 +142,11 @@ content:
       Look at this cool image  
       ![Trees](/images/landscape-trees.jpg "Trees")
 
+
+      Gif Test
+      ![Sample](/images/sample.gif "Sample")
+   
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
