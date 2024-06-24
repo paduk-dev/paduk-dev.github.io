@@ -77,8 +77,10 @@ content:
         quote: >
           This is probably
         description: | # this will include new lines to allow paragraphs
-          Gif Test
+          Gif Test > :
           ![Sample](/images/sample.gif "Sample")
+          > Space
+          : Enter
 
       - layout: top-middle
         title: 생산장비 모델링 자동화
