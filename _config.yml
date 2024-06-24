@@ -60,7 +60,8 @@ content:
     content:
       - layout: top-middle
         title: Precast Concrete 공법의 건물 설계 도면 자동 생성 시스템 및 이의 실행 방법
-        link_text: KR 10-2024-0041595 (2출원 중)
+        quote: >
+         KR 10-2024-0041595 (2출원 중)
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
