@@ -97,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project 
 
-  - title: Experience # Title for the section
+  - title: Experience
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -145,9 +145,14 @@ content:
             C# 기반 코드를 C++로 래핑 작업을 주업무로 수행하였다. 동시에 실무에서 사용되는 데이터베이스와 형상 관리 도구에 대한 기본적인 숙련도를 쌓았습니다.
             
 
-  - title: A Little More About Me
+  - title: Hobby
     layout: text
     content: | # this will include new lines to allow paragraphs
+      테 스 트 항목: 띄어쓰기가능
+      - 스쿠버다이빙
+      - 서핑
+      
+      - 스노우보드
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
