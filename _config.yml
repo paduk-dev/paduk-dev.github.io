@@ -77,12 +77,13 @@ content:
         quote: >
           This is probably
         description: | # this will include new lines to allow paragraphs
-          Gif Test > :
+          Gif Test
+          
           ![Sample](/images/sample.gif "Sample")
+          
           > Space
-          : Enter
-          test1</br>
-          test2
+
+          : Enteㄱ
 
       - layout: top-middle
         title: 생산장비 모델링 자동화
@@ -153,6 +154,8 @@ content:
       - 서핑
       
       - 스노우보드
+
+      1
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
