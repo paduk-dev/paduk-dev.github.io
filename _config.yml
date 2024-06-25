@@ -87,16 +87,52 @@ content:
 
       - layout: top-middle
         title: 생산장비 모델링 자동화
-        # link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably
-        description: | # this will include new lines to allow paragraphs
-          I started this project 
+        description:
+          I started this project
+
+      - layout: top-middle
+        title: 물량 산출 시스템
+        quote: >
+          This is probably
+        description:
+          I started this project
+
+      - layout: top-middle
+        title: 차음 벽체 성능 검증 툴
+        quote: >
+          This is probably
+        description:
+          I started this project
+
+      - layout: top-middle
+        title: Property Manager
+        quote: >
+          This is probably
+        description:
+          I started this project
+
+      - layout: top-middle
+        title: Property Manager
+        quote: >
+          This is probably
+        description:
+          I started this project
+
+      - layout: top-middle
+        title: 상수 관망 진단 프로그램
+        quote: >
+          This is probably
+        description:
+          I started this project
+
+      - layout: top-middle
+        title: 상수도 통합 운영 시스템
+        quote: >
+          This is probably
+        description:
+          I started this project
 
   - title: Experience
     layout: list # Type of content section (list/text)
