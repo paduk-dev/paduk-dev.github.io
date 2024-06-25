@@ -70,10 +70,10 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-left
+      - layout: top-middle
         title: PC-CAD
-        sub_title: 22.08 ~ 24.05
-        caption: caption test test 123 123
+        sub_title: 프로젝트 기간 : 22.08 ~ 24.05
+        caption: caption input
         # link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -81,50 +81,50 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably
+          Precast Concrete 3D 자동화 프로그램 (가칭 PC-CAD) 연구 개발
         description: | # this will include new lines to allow paragraphs
           I started this project
 
       - layout: top-middle
         title: 생산장비 모델링 자동화 툴
-        sub_title: 빔피어스 (21.04 ~ 22.02)
-        개발인원 : 3명(개발자2, 업무 분석가 1)
-        caption: caption
+        sub_title: 프로젝트 기간 : 21.04 ~ 22.02
+        caption: caption input
         quote: >
-          This is probably
+          CAD 데이터를 수집하여 사용자의 설정에 따른 생산장비 모델링 자동화 모듈 
         description:
           I started this project
 
       - layout: top-middle
         title: 물량 산출 시스템(BCMS/BQMS)
+        sub_title: 프로젝트 기간 : 20.08 ~ 21.12
+        caption: caption input
         quote: >
-          This is probably
+          공종에 따른 자재 정보 검증 및 산출 모듈 신규 개발 및 유지보수
         description:
           I started this project
 
       - layout: top-middle
         title: 차음 벽체 성능 검증 툴
+        sub_title: 프로젝트 기간 : 21.04 ~ 21.10
+        caption: caption input
         quote: >
-          This is probably
+          음향 설계 현황 및 성능 정보 가시화 모듈 신규 개발
         description:
           I started this project
 
       - layout: top-middle
         title: Property Manager
+        sub_title: 프로젝트 기간 : 21.03 ~ 21.05
+        caption: caption input
         quote: >
-          This is probably
-        description:
-          I started this project
-
-      - layout: top-middle
-        title: Property Manager
-        quote: >
-          This is probably
+          자재 속성 정보 변경 모듈 유지보수
         description:
           I started this project
 
       - layout: top-middle
         title: 상수 관망 진단 프로그램(Dr.Pipe)
+        sub_title: 프로젝트 기간 : 19.04 ~ 19.12
+        caption: caption input
         quote: >
           This is probably
         description:
@@ -132,8 +132,10 @@ content:
 
       - layout: top-middle
         title: 상수도 통합 운영 시스템(water-NET)
+        sub_title: 프로젝트 기간 : 18.12 ~ 19.12
+        caption: caption input
         quote: >
-          This is probably
+          지방 및 광역 상수 관망 운영 관리
         description:
           I started this project
 
