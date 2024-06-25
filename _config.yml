@@ -194,11 +194,12 @@ content:
       - 서핑
       - 스노우보드
 
-      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)  # link
+      
       Look at this cool image test
       
       ![Trees](/images/landscape-trees.jpg "Trees")
    
+#[Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)  # link
 
 # Footer
 footer_show_references: true
