@@ -85,7 +85,8 @@ content:
 
       - layout: top-middle
         title: 생산장비 모델링 자동화 툴
-        sub_title: sub - title
+        sub_title: 빔피어스 (21.04 ~ 22.02)
+        개발인원 : 3명(개발자2, 업무 분석가 1)
         caption: caption
         quote: >
           This is probably
