@@ -81,9 +81,7 @@ content:
         quote: >
           This is probably
         description: | # this will include new lines to allow paragraphs
-          
-
-          : Enteㄱ
+          I started this project
 
       - layout: top-middle
         title: 생산장비 모델링 자동화 툴
