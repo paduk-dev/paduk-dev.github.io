@@ -70,8 +70,10 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: top-left
         title: PC-CAD
+        sub_title: 22.08 ~ 24.05
+        caption: caption test test 123 123
         # link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
