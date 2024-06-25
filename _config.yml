@@ -188,19 +188,11 @@ content:
       테 스 트 항목: 띄어쓰기가능
       - 스쿠버다이빙
       - 서핑
-      
       - 스노우보드
 
-      1
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
+      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)  # link
+      Look at this cool image test
       ![Trees](/images/landscape-trees.jpg "Trees")
-
    
 
 # Footer
