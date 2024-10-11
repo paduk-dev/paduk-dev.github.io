@@ -57,8 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: 특허
     layout: text
-    content:
-      content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs
       프리케스트 콘트리트 특허 (KR 123-123)
 
   - title: Projects # Title for the section
