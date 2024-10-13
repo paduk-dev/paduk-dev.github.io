@@ -57,8 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: 특허
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      프리케스트 콘트리트 특허 (KR 123-123)
+    content:
+      Precast Concrete 공법의 건물 설계 도면 자동 생성 시스템 및 이의 실행 방법 (KR 10-2024-0041595)
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,7 +85,7 @@ content:
         link: http://www.yunwoopc.co.kr/
         link_text: yunwoopc.co.kr
         sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        caption: 2022. 08. ~ 2024. 05.
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
         link: https://bimpeers.com/
         link_text: bimpeers.com
         sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        caption: 2020. 04. ~ 2022. 03.
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -107,7 +107,7 @@ content:
         link: http://mind-one.co.kr/
         link_text: mind-one.co.kr
         sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        caption: 2018. 10. ~ 2020. 01.
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -118,7 +118,7 @@ content:
         link: https://rockwonitglobal.com/
         link_text: rockwonitglobal.com
         sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        caption: 2018. 06. ~ 2018. 09.
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
