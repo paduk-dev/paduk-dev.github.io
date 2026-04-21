@@ -80,12 +80,12 @@ content:
   - title: Experience
     layout: list
     content:
-    - layout: left
-        title: ㅁㄴㅇㄹ
-        link: https://chang-soft.com/
-        link_text: chang-soft.com
-        sub_title: 글로벌사업팀 - 과장
-        caption: 2024. 12. ~ 
+      - layout: left
+        title: 연우피씨엔지니어링
+        link: http://www.yunwoopc.co.kr/
+        link_text: yunwoopc.co.kr
+        sub_title: 개발팀 - 대리
+        caption: 2022. 08. ~ 2024. 05.
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
