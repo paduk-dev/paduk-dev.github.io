@@ -125,6 +125,30 @@ content:
             Every.
 
       - layout: left
+        title: 마인드원
+        link: http://mind-one.co.kr/
+        link_text: mind-one.co.kr
+        sub_title: BA 1팀 - 사원
+        caption: 2018. 10. ~ 2020. 01.
+        quote: >
+          상수도 관망 운영과 하수도 모니터링으로 실시간 제어와 유지 관리 최적화를 통한 물 관리 솔루션
+        description: |
+            Every.
+            
+      - layout: left
+        title: 녹원정보기술
+        link: https://rockwonitglobal.com/
+        link_text: rockwonitglobal.com
+        sub_title: 개발 2팀 - 사원
+        caption: 2018. 06. ~ 2018. 09.
+        quote: >
+          디지털 트윈 기술을 항만 물류 시스템에 적용하여 실시간 모니터링과 예측 최적화로 물류 효율을 극대화한 스마트 항만 솔루션
+        description: |
+          디지털 트윈을 활용한 스마트 항만 솔루션은 항만 물류의 효율을 높이는 데 중점을 둔 기술입니다.
+          이 솔루션은 항만 운영 환경을 가상으로 재현해 실시간 모니터링과 물류 흐름의 통합 관리를 가능하게 합니다.
+          저 또한 이 기술을 통해 항만 운영 환경을 가상으로 재현하고 물류 흐름을 실시간으로 모니터링하는 방법을 배웠으나, 아직은 개념을 이해하는 단계에 머물러 있습니다.
+          
+      - layout: left
         title: 녹원정보기술
         link: https://rockwonitglobal.com/
         link_text: rockwonitglobal.com
